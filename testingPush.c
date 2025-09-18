@@ -1,5 +1,1 @@
-hello jen
-
-
-
-ayes blom disini
+printf("hello jen");
